@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Telegram chat bot that uses gpt 3.5 in python](https://dev.to/sangres/create-a-telegram-chat-bot-that-uses-gpt-35-in-python-5735)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
