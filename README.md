@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Elixir, Phoenix, Javascript, Typescript**
 
-- 👨‍💻 All of my projects are available at [ccorrado.surge.sh](http://ccorrado.surge.sh/)
+- 👨‍💻 All of my projects are available at [corradocionini.com](https://corradocionini.com/)
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/sangres)
 
