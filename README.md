@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Corrado</h1>
-<h3 align="center">Developer at <a href="https://www.zoonect.com/" target="_blank">Zoonect</a> and Student of Unipisa</h3>
+<h3 align="center">Full Stack Developer at <a href="https://www.zoonect.com/" target="_blank">Zoonect</a> and Student of Unipisa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangresz&label=Profile%20views&color=0e75b6&style=flat" alt="sangresz" /> </p>
 
-- 🌱 I’m currently learning **Elixir, Phoenix, Javascript, Typescript**
+- 🌱 I’m currently learning **Elixir, Phoenix, Typescript, Svelte**
 
 - 👨‍💻 All of my projects are available at [corradocionini.com](https://corradocionini.com/)
 
