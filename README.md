@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [dev.to](https://dev.to/sangres)
 
-- 📫 How to reach me **corrado.cionini@protonmail.com**
+- 📫 How to reach me **info@corradocionini.com**
 
 - 📄 Know about my experiences [(to set)]((to set))
 
